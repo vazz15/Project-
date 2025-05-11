@@ -1,0 +1,6 @@
+openai
+python-telegram-bot==20.7
+TTS==0.20.2
+torch
+soundfile
+ffmpeg-python
